@@ -1,4 +1,4 @@
-![logo](https://github.com/codeadictor/web_dev/blob/main/image.png)
+![logo](https://github.com/codeadictor/web_dev/blob/main/coding.png)
 <h1 align="center">Hi 👋, I'm pranshu yadav</h1>
 <h3 align="center">A passionate MERN STACK Developer from India</h3>
 <img align="right" alt="Coding" width="550" height="300" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
